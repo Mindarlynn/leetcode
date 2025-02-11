@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mindarlynn/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mindarlynn/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/Mindarlynn/leetcode/tree/master/0742-to-lower-case) |
 | [0822-unique-morse-code-words](https://github.com/Mindarlynn/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mindarlynn/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mindarlynn/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |

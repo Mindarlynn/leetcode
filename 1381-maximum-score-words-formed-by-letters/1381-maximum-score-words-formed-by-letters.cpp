@@ -1,70 +1,63 @@
 class Solution {
 public:
-    template<typename T1, class T2>
-    unordered_map<T1, int> count(const T2& param){
-        unordered_map<T1, int> res{};
+    template<class T>
+    vector<int> count(const T& param){
+        vector<int> res(26, 0);
         for(const auto& e : param){
-            ++res[e];
+            ++res[e - 'a'];
         }
         return res;
     }
 
-    unordered_map<char, int> join_map(const unordered_map<char, int>& l, const unordered_map<char, int>& r){
-        unordered_map<char, int> res{};
-        for(const auto& [key, val] : l){
-            res[key] += val;
+    vector<int> join_map(const vector<int>& l, const vector<int>& r){
+        vector<int> res(26, 0);
+        for(int i = 0; i < 26; ++i){
+            res[i] = l[i] + r[i];
         }
-        for(const auto& [key, val] : r){
-            res[key] += val;
-        }
-
         return res;
     }
     
-    int suuum(unordered_map<char, int> lettermap, vector<pair<int, unordered_map<char, int>>>& v, int x = 0, int sum = 0){
+    int suuum(vector<int> lettercnt, vector<pair<int, vector<int>>>& v, int x = 0, int sum = 0){
         if(x >= v.size()) return sum;
 
-        int r1 = suuum(lettermap, v, x + 1, sum);
+        int r1 = suuum(lettercnt, v, x + 1, sum);
         
         bool subable = true;
-        auto sublettermap = lettermap;
-        for(const auto& [key, val] : v[x].second){
-            if(val > lettermap[key]){
+        auto subablecnt = lettercnt;
+        for(int i = 0; i < 26; ++i){
+            if(v[x].second[i] > lettercnt[i]){
                 subable = false;
                 break;
             }
-            sublettermap[key] -= val;
+            subablecnt[i] -= v[x].second[i];
         }
         
-        int r2 = subable ? suuum(sublettermap, v, x + 1, sum + v[x].first) : 0;
+        int r2 = subable ? suuum(subablecnt, v, x + 1, sum + v[x].first) : 0;
         return ::max(r1, r2);
     }
 
     int maxScoreWords(vector<string>& words, vector<char>& letters, vector<int>& score) {
         const int n = words.size();
-        unordered_map<char, int> lettermap = count<char>(letters);
+        vector<int> lettercnt = count(letters);
 
-        bool include[26] = {false, };
-
-        vector<pair<int, unordered_map<char, int>>> v{};
+        vector<pair<int, vector<int>>> v{};
 
         for(int i = 0; i < n; ++i){
-            unordered_map<char, int> wmap = count<char>(words[i]);
+            vector<int> wordcnt = count(words[i]);
 
             int acc = 0;
-            for(int j = 0; j < words[i].length(); ++j){
-                char c = words[i][j];
-                if(wmap[c] > lettermap[c]) {
+            for(int i = 0; i < 26; ++i){
+                if(wordcnt[i] > lettercnt[i]){
                     acc = 0;
                     break;
                 }
-                acc += score[c - 'a'];
+                acc += wordcnt[i] * score[i];
             }
 
             if(acc == 0) continue;
-            v.emplace_back(acc, wmap);
+            v.emplace_back(acc, wordcnt);
         }
 
-        return suuum(lettermap, v);
+        return suuum(lettercnt, v);
     }
 };

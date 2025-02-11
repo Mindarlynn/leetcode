@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Mindarlynn/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Mindarlynn/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mindarlynn/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mindarlynn/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mindarlynn/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Mindarlynn/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mindarlynn/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Mindarlynn/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mindarlynn/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mindarlynn/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mindarlynn/leetcode/tree/master/0070-climbing-stairs) |

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Mindarlynn/leetcode/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/Mindarlynn/leetcode/tree/master/1558-course-schedule-iv) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Mindarlynn/leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Matrix
 |  |
 | ------- |

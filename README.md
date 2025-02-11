@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Mindarlynn/leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mindarlynn/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mindarlynn/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2491-smallest-even-multiple](https://github.com/Mindarlynn/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/Mindarlynn/leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Mindarlynn/leetcode/tree/master/0338-counting-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mindarlynn/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mindarlynn/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mindarlynn/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |

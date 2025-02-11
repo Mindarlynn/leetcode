@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/Mindarlynn/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Mindarlynn/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mindarlynn/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mindarlynn/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Mindarlynn/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mindarlynn/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mindarlynn/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mindarlynn/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/Mindarlynn/leetcode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Mindarlynn/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Mindarlynn/leetcode/tree/master/0476-number-complement) |
 | [1022-unique-paths-iii](https://github.com/Mindarlynn/leetcode/tree/master/1022-unique-paths-iii) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mindarlynn/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Mindarlynn/leetcode/tree/master/1839-decode-xored-array) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mindarlynn/leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1764-maximum-repeating-substring](https://github.com/Mindarlynn/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Number Theory
 |  |
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mindarlynn/leetcode/tree/master/0090-subsets-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mindarlynn/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Mindarlynn/leetcode/tree/master/1022-unique-paths-iii) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mindarlynn/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Mindarlynn/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
@@ -846,4 +851,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Mindarlynn/leetcode/tree/master/2434-design-a-number-container-system) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->

@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mindarlynn/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Mindarlynn/leetcode/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Mindarlynn/leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mindarlynn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Mindarlynn/leetcode/tree/master/0567-permutation-in-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Mindarlynn/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mindarlynn/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Mindarlynn/leetcode/tree/master/0205-isomorphic-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mindarlynn/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mindarlynn/leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Mindarlynn/leetcode/tree/master/0742-to-lower-case) |

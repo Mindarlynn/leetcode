@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-queries-on-a-permutation-with-key](https://github.com/Mindarlynn/leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mindarlynn/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1833-find-the-highest-altitude](https://github.com/Mindarlynn/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mindarlynn/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mindarlynn/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Mindarlynn/leetcode/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/Mindarlynn/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mindarlynn/leetcode/tree/master/2358-number-of-ways-to-split-array) |

@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mindarlynn/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mindarlynn/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mindarlynn/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mindarlynn/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mindarlynn/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mindarlynn/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Mindarlynn/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Mindarlynn/leetcode/tree/master/0200-number-of-islands) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mindarlynn/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Mindarlynn/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mindarlynn/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Math
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Mindarlynn/leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mindarlynn/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mindarlynn/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2491-smallest-even-multiple](https://github.com/Mindarlynn/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/Mindarlynn/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Mindarlynn/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Mindarlynn/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mindarlynn/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mindarlynn/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mindarlynn/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mindarlynn/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/Mindarlynn/leetcode/tree/master/2406-decode-the-message) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |

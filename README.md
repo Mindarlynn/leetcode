@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mindarlynn/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
+| [0492-construct-the-rectangle](https://github.com/Mindarlynn/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Mindarlynn/leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mindarlynn/leetcode/tree/master/1086-divisor-game) |

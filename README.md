@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mindarlynn/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Mindarlynn/leetcode/tree/master/0684-redundant-connection) |
@@ -233,11 +234,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Memoization

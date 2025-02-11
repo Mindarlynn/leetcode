@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2491-smallest-even-multiple](https://github.com/Mindarlynn/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mindarlynn/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3721-count-mentions-per-user](https://github.com/Mindarlynn/leetcode/tree/master/3721-count-mentions-per-user) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mindarlynn/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mindarlynn/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/Mindarlynn/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Number Theory
 |  |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

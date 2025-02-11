@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mindarlynn/leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mindarlynn/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mindarlynn/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mindarlynn/leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mindarlynn/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/Mindarlynn/leetcode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mindarlynn/leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mindarlynn/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mindarlynn/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mindarlynn/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mindarlynn/leetcode/tree/master/0404-sum-of-left-leaves) |

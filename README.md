@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mindarlynn/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0226-invert-binary-tree) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mindarlynn/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mindarlynn/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0226-invert-binary-tree) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mindarlynn/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mindarlynn/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0226-invert-binary-tree) |

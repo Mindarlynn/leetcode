@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/Mindarlynn/leetcode/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mindarlynn/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Mindarlynn/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mindarlynn/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mindarlynn/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mindarlynn/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Mindarlynn/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Mindarlynn/leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1708-design-parking-system](https://github.com/Mindarlynn/leetcode/tree/master/1708-design-parking-system) |
+| [2048-build-array-from-permutation](https://github.com/Mindarlynn/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mindarlynn/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mindarlynn/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mindarlynn/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |

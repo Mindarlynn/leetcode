@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Mindarlynn/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Mindarlynn/leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mindarlynn/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mindarlynn/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Binary Indexed Tree
 |  |

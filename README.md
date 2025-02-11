@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mindarlynn/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Mindarlynn/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mindarlynn/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mindarlynn/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Mindarlynn/leetcode/tree/master/0441-arranging-coins) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mindarlynn/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Mindarlynn/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mindarlynn/leetcode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Mindarlynn/leetcode/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |

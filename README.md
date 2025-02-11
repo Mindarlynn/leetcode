@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mindarlynn/leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mindarlynn/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Mindarlynn/leetcode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/Mindarlynn/leetcode/tree/master/0455-assign-cookies) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mindarlynn/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mindarlynn/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Mindarlynn/leetcode/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mindarlynn/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Mindarlynn/leetcode/tree/master/1765-merge-in-between-linked-lists) |

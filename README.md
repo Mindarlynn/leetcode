@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mindarlynn/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mindarlynn/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3451-string-compression-iii](https://github.com/Mindarlynn/leetcode/tree/master/3451-string-compression-iii) |
 | [3636-check-balanced-string](https://github.com/Mindarlynn/leetcode/tree/master/3636-check-balanced-string) |
 ## Prefix Sum
 |  |

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Mindarlynn/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Mindarlynn/leetcode/tree/master/1651-shuffle-string) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mindarlynn/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/Mindarlynn/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mindarlynn/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Mindarlynn/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mindarlynn/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mindarlynn/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/Mindarlynn/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2502-sort-the-people](https://github.com/Mindarlynn/leetcode/tree/master/2502-sort-the-people) |

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Mindarlynn/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Mindarlynn/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mindarlynn/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mindarlynn/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mindarlynn/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Mindarlynn/leetcode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mindarlynn/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mindarlynn/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mindarlynn/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Mindarlynn/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mindarlynn/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mindarlynn/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1764-maximum-repeating-substring](https://github.com/Mindarlynn/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/Mindarlynn/leetcode/tree/master/1944-truncate-sentence) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mindarlynn/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mindarlynn/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mindarlynn/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mindarlynn/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mindarlynn/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/Mindarlynn/leetcode/tree/master/1752-arithmetic-subarrays) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mindarlynn/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2502-sort-the-people](https://github.com/Mindarlynn/leetcode/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Mindarlynn/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mindarlynn/leetcode/tree/master/0455-assign-cookies) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mindarlynn/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mindarlynn/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mindarlynn/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
 | ------- |
@@ -495,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Mindarlynn/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mindarlynn/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->

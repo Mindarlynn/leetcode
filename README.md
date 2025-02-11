@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mindarlynn/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Mindarlynn/leetcode/tree/master/0141-linked-list-cycle) |
 | [1364-tuple-with-same-product](https://github.com/Mindarlynn/leetcode/tree/master/1364-tuple-with-same-product) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mindarlynn/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mindarlynn/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mindarlynn/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mindarlynn/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mindarlynn/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mindarlynn/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mindarlynn/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Linked List

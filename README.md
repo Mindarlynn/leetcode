@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Mindarlynn/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Mindarlynn/leetcode/tree/master/0075-sort-colors) |
@@ -99,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Mindarlynn/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Mindarlynn/leetcode/tree/master/0200-number-of-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mindarlynn/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mindarlynn/leetcode/tree/master/1086-divisor-game) |

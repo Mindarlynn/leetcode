@@ -16,23 +16,27 @@ public:
         }
         return res;
     }
+
+    pair<bool, vector<int>> get_subable(const vector<int>& origin, const vector<int>& sub){
+        vector<int> res = origin;
+        for(int i = 0; i < 26; ++i){
+            if(sub[i] > origin[i]){
+                return {false, {}};
+            }
+            res[i] -= sub[i];
+        }
+        return {true, res};
+    }
     
     int suuum(vector<int> lettercnt, vector<pair<int, vector<int>>>& v, int x = 0, int sum = 0){
         if(x >= v.size()) return sum;
 
         int r1 = suuum(lettercnt, v, x + 1, sum);
         
-        bool subable = true;
-        auto subablecnt = lettercnt;
-        for(int i = 0; i < 26; ++i){
-            if(v[x].second[i] > lettercnt[i]){
-                subable = false;
-                break;
-            }
-            subablecnt[i] -= v[x].second[i];
-        }
+        auto [subable, subablecnt] = get_subable(lettercnt, v[x].second);
         
         int r2 = subable ? suuum(subablecnt, v, x + 1, sum + v[x].first) : 0;
+        
         return ::max(r1, r2);
     }
 

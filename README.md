@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mindarlynn/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mindarlynn/leetcode/tree/master/0415-add-strings) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Mindarlynn/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Mindarlynn/leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mindarlynn/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Mindarlynn/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mindarlynn/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Mindarlynn/leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Mindarlynn/leetcode/tree/master/0492-construct-the-rectangle) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Mindarlynn/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mindarlynn/leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Mindarlynn/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mindarlynn/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mindarlynn/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Mindarlynn/leetcode/tree/master/0500-keyboard-row) |

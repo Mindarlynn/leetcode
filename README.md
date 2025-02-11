@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mindarlynn/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mindarlynn/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mindarlynn/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mindarlynn/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mindarlynn/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1752-arithmetic-subarrays](https://github.com/Mindarlynn/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mindarlynn/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mindarlynn/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mindarlynn/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mindarlynn/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mindarlynn/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mindarlynn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/Mindarlynn/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mindarlynn/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mindarlynn/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mindarlynn/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Depth-First Search
 |  |

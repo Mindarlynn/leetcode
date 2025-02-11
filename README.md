@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mindarlynn/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Mindarlynn/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Mindarlynn/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mindarlynn/leetcode/tree/master/0415-add-strings) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mindarlynn/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Mindarlynn/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mindarlynn/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mindarlynn/leetcode/tree/master/0231-power-of-two) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Mindarlynn/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Mindarlynn/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mindarlynn/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/Mindarlynn/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Mindarlynn/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mindarlynn/leetcode/tree/master/0242-valid-anagram) |

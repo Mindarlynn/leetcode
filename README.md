@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mindarlynn/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mindarlynn/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mindarlynn/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mindarlynn/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mindarlynn/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mindarlynn/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mindarlynn/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/Mindarlynn/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2502-sort-the-people](https://github.com/Mindarlynn/leetcode/tree/master/2502-sort-the-people) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mindarlynn/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3721-count-mentions-per-user](https://github.com/Mindarlynn/leetcode/tree/master/3721-count-mentions-per-user) |
 ## Topological Sort
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mindarlynn/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mindarlynn/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mindarlynn/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mindarlynn/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |

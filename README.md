@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Mindarlynn/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mindarlynn/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mindarlynn/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mindarlynn/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mindarlynn/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3721-count-mentions-per-user](https://github.com/Mindarlynn/leetcode/tree/master/3721-count-mentions-per-user) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Mindarlynn/leetcode/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/Mindarlynn/leetcode/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mindarlynn/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mindarlynn/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Mindarlynn/leetcode/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/Mindarlynn/leetcode/tree/master/1558-course-schedule-iv) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Mindarlynn/leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mindarlynn/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
 | ------- |

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1651-shuffle-string](https://github.com/Mindarlynn/leetcode/tree/master/1651-shuffle-string) |
 | [1752-arithmetic-subarrays](https://github.com/Mindarlynn/leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mindarlynn/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Mindarlynn/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Mindarlynn/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Mindarlynn/leetcode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/Mindarlynn/leetcode/tree/master/1764-maximum-repeating-substring) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mindarlynn/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Mindarlynn/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mindarlynn/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |

@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Mindarlynn/leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mindarlynn/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2886-faulty-keyboard](https://github.com/Mindarlynn/leetcode/tree/master/2886-faulty-keyboard) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mindarlynn/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mindarlynn/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3721-count-mentions-per-user](https://github.com/Mindarlynn/leetcode/tree/master/3721-count-mentions-per-user) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mindarlynn/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mindarlynn/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2886-faulty-keyboard](https://github.com/Mindarlynn/leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mindarlynn/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mindarlynn/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/Mindarlynn/leetcode/tree/master/3451-string-compression-iii) |

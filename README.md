@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mindarlynn/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Mindarlynn/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mindarlynn/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mindarlynn/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mindarlynn/leetcode/tree/master/0367-valid-perfect-square) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mindarlynn/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Mindarlynn/leetcode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Mindarlynn/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mindarlynn/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mindarlynn/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Mindarlynn/leetcode/tree/master/1086-divisor-game) |
 ## Recursion
 |  |

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Mindarlynn/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mindarlynn/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mindarlynn/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/Mindarlynn/leetcode/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mindarlynn/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mindarlynn/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mindarlynn/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/Mindarlynn/leetcode/tree/master/2406-decode-the-message) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mindarlynn/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/Mindarlynn/leetcode/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/Mindarlynn/leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mindarlynn/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mindarlynn/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mindarlynn/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2571-find-the-pivot-integer](https://github.com/Mindarlynn/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Binary Indexed Tree
 |  |

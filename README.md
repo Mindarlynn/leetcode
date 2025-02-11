@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mindarlynn/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mindarlynn/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Mindarlynn/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mindarlynn/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mindarlynn/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Mindarlynn/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Memoization
 |  |

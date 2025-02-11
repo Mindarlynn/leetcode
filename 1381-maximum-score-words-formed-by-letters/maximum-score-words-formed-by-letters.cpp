@@ -20,33 +20,23 @@ public:
 
         return res;
     }
-
-    void print(const unordered_map<char, int>& map){
-        for(const auto& [key, val] : map){
-            cout  << "{ " << key << ", " << val << " }, ";
-        }
-        cout << '\n';
-    }
-
     
     int suuum(unordered_map<char, int> lettermap, vector<pair<int, unordered_map<char, int>>>& v, int x = 0, int sum = 0){
         if(x >= v.size()) return sum;
+
         int r1 = suuum(lettermap, v, x + 1, sum);
         
-        int r2 = 0;
         bool subable = true;
+        auto sublettermap = lettermap;
         for(const auto& [key, val] : v[x].second){
             if(val > lettermap[key]){
                 subable = false;
                 break;
             }
+            sublettermap[key] -= val;
         }
-        if(subable){
-            for(const auto& [key, val] : v[x].second){
-                lettermap[key] -= val;
-            }
-            r2 = suuum(lettermap, v, x + 1, sum + v[x].first);
-        }
+        
+        int r2 = subable ? suuum(sublettermap, v, x + 1, sum + v[x].first) : 0;
         return ::max(r1, r2);
     }
 

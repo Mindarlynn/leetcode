@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Mindarlynn/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mindarlynn/leetcode/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/Mindarlynn/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mindarlynn/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mindarlynn/leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Mindarlynn/leetcode/tree/master/0742-to-lower-case) |

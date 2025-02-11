@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mindarlynn/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mindarlynn/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1558-course-schedule-iv](https://github.com/Mindarlynn/leetcode/tree/master/1558-course-schedule-iv) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mindarlynn/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mindarlynn/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mindarlynn/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mindarlynn/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mindarlynn/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mindarlynn/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mindarlynn/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mindarlynn/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mindarlynn/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mindarlynn/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Memoization

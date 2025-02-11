@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Mindarlynn/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mindarlynn/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mindarlynn/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2383-add-two-integers](https://github.com/Mindarlynn/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Mindarlynn/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/Mindarlynn/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Mindarlynn/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mindarlynn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Mindarlynn/leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Mindarlynn/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Mindarlynn/leetcode/tree/master/0500-keyboard-row) |
 | [0654-maximum-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/Mindarlynn/leetcode/tree/master/0724-find-pivot-index) |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-queries-on-a-permutation-with-key](https://github.com/Mindarlynn/leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mindarlynn/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2465-shifting-letters-ii](https://github.com/Mindarlynn/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mindarlynn/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mindarlynn/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mindarlynn/leetcode/tree/master/0455-assign-cookies) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3721-count-mentions-per-user](https://github.com/Mindarlynn/leetcode/tree/master/3721-count-mentions-per-user) |
 ## Topological Sort
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mindarlynn/leetcode/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->

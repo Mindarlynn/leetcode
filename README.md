@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mindarlynn/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mindarlynn/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Mindarlynn/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mindarlynn/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mindarlynn/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mindarlynn/leetcode/tree/master/0415-add-strings) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Mindarlynn/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Mindarlynn/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Mindarlynn/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mindarlynn/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Mindarlynn/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Mindarlynn/leetcode/tree/master/0476-number-complement) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mindarlynn/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/Mindarlynn/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |

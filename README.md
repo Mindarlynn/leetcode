@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mindarlynn/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mindarlynn/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mindarlynn/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Mindarlynn/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mindarlynn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Mindarlynn/leetcode/tree/master/0567-permutation-in-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mindarlynn/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mindarlynn/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Mindarlynn/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mindarlynn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Mindarlynn/leetcode/tree/master/0455-assign-cookies) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mindarlynn/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Mindarlynn/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Mindarlynn/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Mindarlynn/leetcode/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mindarlynn/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mindarlynn/leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Mindarlynn/leetcode/tree/master/0742-to-lower-case) |

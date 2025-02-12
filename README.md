@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mindarlynn/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Mindarlynn/leetcode/tree/master/0500-keyboard-row) |
 | [0654-maximum-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/Mindarlynn/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Mindarlynn/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mindarlynn/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Mindarlynn/leetcode/tree/master/0792-binary-search) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mindarlynn/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Mindarlynn/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mindarlynn/leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Mindarlynn/leetcode/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Mindarlynn/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Mindarlynn/leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1708-design-parking-system](https://github.com/Mindarlynn/leetcode/tree/master/1708-design-parking-system) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mindarlynn/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/Mindarlynn/leetcode/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mindarlynn/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |

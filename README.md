@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Mindarlynn/leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Mindarlynn/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1256-rank-transform-of-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1297-maximum-number-of-balloons](https://github.com/Mindarlynn/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/Mindarlynn/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mindarlynn/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mindarlynn/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mindarlynn/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Mindarlynn/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mindarlynn/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1297-maximum-number-of-balloons](https://github.com/Mindarlynn/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mindarlynn/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/Mindarlynn/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mindarlynn/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Mindarlynn/leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Mindarlynn/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1297-maximum-number-of-balloons](https://github.com/Mindarlynn/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mindarlynn/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mindarlynn/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |

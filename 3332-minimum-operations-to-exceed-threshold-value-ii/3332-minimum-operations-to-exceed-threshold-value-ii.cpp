@@ -5,8 +5,6 @@ public:
 
         int ans = 0;
 
-        cout << pq.top();
-
         while(pq.top() < k){
             long long x = pq.top(); pq.pop(); 
             long long y = pq.top(); pq.pop();

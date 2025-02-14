@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mindarlynn/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Mindarlynn/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mindarlynn/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/Mindarlynn/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Mindarlynn/leetcode/tree/master/1651-shuffle-string) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Mindarlynn/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mindarlynn/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mindarlynn/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1503-reducing-dishes](https://github.com/Mindarlynn/leetcode/tree/master/1503-reducing-dishes) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mindarlynn/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mindarlynn/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mindarlynn/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mindarlynn/leetcode/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mindarlynn/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mindarlynn/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mindarlynn/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Mindarlynn/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mindarlynn/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mindarlynn/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -710,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1503-reducing-dishes](https://github.com/Mindarlynn/leetcode/tree/master/1503-reducing-dishes) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mindarlynn/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1764-maximum-repeating-substring](https://github.com/Mindarlynn/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Number Theory
 |  |

@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mindarlynn/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Mindarlynn/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1752-arithmetic-subarrays](https://github.com/Mindarlynn/leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mindarlynn/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mindarlynn/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mindarlynn/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/Mindarlynn/leetcode/tree/master/2406-decode-the-message) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mindarlynn/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Mindarlynn/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/Mindarlynn/leetcode/tree/master/1708-design-parking-system) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mindarlynn/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mindarlynn/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mindarlynn/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mindarlynn/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mindarlynn/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Mindarlynn/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mindarlynn/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/Mindarlynn/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mindarlynn/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mindarlynn/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |

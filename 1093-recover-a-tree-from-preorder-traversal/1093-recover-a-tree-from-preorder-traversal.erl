@@ -25,12 +25,12 @@ helper([$- | T], Tmp, Dashes, Depth) ->
             {LeftNode, LeftStr} = 
                 case helper(T, [], 1, Depth + 1) of
                     {null, _} -> {null, T};
-                    {Node1, Str1} -> {Node1, Str1}
+                    LRes -> LRes
                 end,
             {RightNode, RightStr} = 
                 case helper(LeftStr, [], 1, Depth + 1) of
                     {null, _} -> {null, LeftStr};
-                    {Node2, Str2} -> {Node2, Str2}
+                    RRes -> RRes
                 end,
             %io:format("Val: ~p~nT: ~p~nL: ~p~nR: ~p~n~n", [Tmp, T, LeftStr, RightStr]),
             {#tree_node{val = list_to_integer(Tmp), left = LeftNode, right = RightNode}, RightStr}
@@ -38,5 +38,3 @@ helper([$- | T], Tmp, Dashes, Depth) ->
 %when number
 helper([H | T], Tmp, Dashes, Depth) when H >= $0 andalso H =< $9 ->
     helper(T, Tmp ++ [H], Dashes, Depth).
-
-    

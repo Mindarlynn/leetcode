@@ -6,11 +6,10 @@ is_partitionable(N, T) ->
     is_partitionable(N div 100, T - N rem 100) or
     is_partitionable(N div 1000, T - N rem 1000).
     
+helper(N, true) -> N * N + punishment_number(N - 1);
+helper(N, false) -> punishment_number(N - 1).
 
 -spec punishment_number(N :: integer()) -> integer().
 punishment_number(0) -> 0;
 punishment_number(N) ->
-    case is_partitionable(N) of
-        true -> N * N;
-        _ -> 0
-    end + punishment_number(N - 1).
+    helper(N, is_partitionable(N)).

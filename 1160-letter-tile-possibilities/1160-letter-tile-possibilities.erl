@@ -22,5 +22,5 @@ bcktrack(Alphas, K, L) ->
                 0 -> 0;
                 Val -> bcktrack(maps:update(Ch, Val - 1, Alphas), K, L + 1)
             end + Acc
-        end, 0, lists:seq($A, $Z)
+        end, 0, maps:keys(Alphas)
     ).

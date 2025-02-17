@@ -8,23 +8,19 @@ num_tile_possibilities(<<Tiles/binary>>) ->
 
 num_tile_possibilities(Tiles) ->
     Alphas = freq(Tiles),
-    lists:sum(
-        lists:map(
-            fun(K) -> 
-                bcktrack(Alphas, K, 0) 
-            end, lists:seq(1, length(Tiles))
-        )
+    lists:foldl(
+        fun(K, Acc) ->
+            Acc + bcktrack(Alphas, K, 0)
+        end, 0, lists:seq(1, length(Tiles))
     ).
 
 bcktrack(Alphas, K, K) -> 1;
 bcktrack(Alphas, K, L) ->
-    lists:sum(
-        lists:map(
-            fun(Ch) ->
-                case maps:get(Ch, Alphas, 0) of
-                    0 -> 0;
-                    Val -> bcktrack(maps:update(Ch, Val - 1, Alphas), K, L + 1)
-                end
-            end, lists:seq($A, $Z, 1)
-        )
+    lists:foldl(
+        fun(Ch, Acc) ->
+            case maps:get(Ch, Alphas, 0) of
+                0 -> 0;
+                Val -> bcktrack(maps:update(Ch, Val - 1, Alphas), K, L + 1)
+            end + Acc
+        end, 0, lists:seq($A, $Z)
     ).

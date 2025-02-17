@@ -3,14 +3,16 @@ freq([], Map) -> Map;
 freq([H | T], Map) -> freq(T, maps:update_with(H, fun(X) -> X + 1 end, 1, Map)).
 
 -spec num_tile_possibilities(Tiles :: unicode:unicode_binary()) -> integer().
+num_tile_possibilities(<<Tiles/binary>>) ->
+    num_tile_possibilities(binary_to_list(Tiles));
+
 num_tile_possibilities(Tiles) ->
-    LTiles = binary_to_list(Tiles),
-    Alphas = freq(LTiles),
+    Alphas = freq(Tiles),
     lists:sum(
         lists:map(
             fun(K) -> 
                 bcktrack(Alphas, K, 0) 
-            end, lists:seq(1, length(LTiles))
+            end, lists:seq(1, length(Tiles))
         )
     ).
 

@@ -1,13 +1,13 @@
 class Solution {
 public:
     void bcktrack(vector<int>& v, const int k, int l, int* ans){
-        if(k == l){
-            ++(*ans);
+        if(k == l){    
             return;
         }
         for(int i = 0; i < 26; ++i){
             if(v[i] <= 0) continue;
             v[i] -= 1;
+            ++(*ans);
             bcktrack(v, k, l + 1, ans);
             v[i] += 1;
         }
@@ -22,9 +22,7 @@ public:
         } 
 
         int ans = 0;
-
-        for(int i = 1; i <= n; ++i)
-            bcktrack(alphas, i, 0, &ans);
+        bcktrack(alphas, n, 0, &ans);
 
         return ans;
     }

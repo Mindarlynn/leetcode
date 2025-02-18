@@ -4,17 +4,14 @@
 %%                     next = null :: 'null' | #list_node{}}).
 
 -spec remove_nth_from_end(Head :: #list_node{} | null, N :: integer()) -> #list_node{} | null.
+remove_nth_from_end(Head, N) -> 
+    element(1, helper(Head, N)).
 
-list_length(null) -> 0;
-list_length(Root) -> 1 + list_length(Root#list_node.next).
+helper(null, _) -> {null, 0};
+helper(Node, N) ->
+    {Child, Val} = helper(Node#list_node.next, N),
+    if
+        (Val + 1) == N -> {Child, Val + 2};
+        true ->  {#list_node{val = Node#list_node.val, next = Child}, Val + 1}
+    end.
 
-remove_nth_from_end(null, Target, Idx) -> 
-    null;
-remove_nth_from_end(Head, Target, Idx) when (Target == Idx) -> 
-    remove_nth_from_end(Head#list_node.next, Target, Idx + 1);
-remove_nth_from_end(Head, Target, Idx) ->
-    #list_node{val = Head#list_node.val, next = remove_nth_from_end(Head#list_node.next, Target, Idx + 1)}.
-
-remove_nth_from_end(Head, N) ->
-    Len = list_length(Head),
-    remove_nth_from_end(Head, Len - N, 0).

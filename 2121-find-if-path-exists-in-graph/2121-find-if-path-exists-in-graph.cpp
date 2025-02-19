@@ -8,6 +8,7 @@ public:
             if(vis[g[l][i]]) continue;
             vis[g[l][i]] = true;
             res |= trav(g, vis, g[l][i], target);
+            if(res) break;
         }
         return res;
     }

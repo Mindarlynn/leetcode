@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Mindarlynn/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/Mindarlynn/leetcode/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mindarlynn/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/Mindarlynn/leetcode/tree/master/1127-last-stone-weight) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Mindarlynn/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Mindarlynn/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Mindarlynn/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mindarlynn/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/Mindarlynn/leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Mindarlynn/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mindarlynn/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |

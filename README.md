@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Mindarlynn/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mindarlynn/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mindarlynn/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Mindarlynn/leetcode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mindarlynn/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0975-range-sum-of-bst](https://github.com/Mindarlynn/leetcode/tree/master/0975-range-sum-of-bst) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mindarlynn/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Mindarlynn/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1764-maximum-repeating-substring](https://github.com/Mindarlynn/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mindarlynn/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Stack
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Mindarlynn/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mindarlynn/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mindarlynn/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mindarlynn/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Mindarlynn/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mindarlynn/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mindarlynn/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mindarlynn/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -945,4 +949,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mindarlynn/leetcode/tree/master/0278-first-bad-version) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mindarlynn/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

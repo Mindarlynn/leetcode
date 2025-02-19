@@ -11,11 +11,12 @@ bcktrack(List, N, K, Len, Th, Prev, Res) ->
             if
                 (Ch == Prev) or (_Th > K) -> {_Th, _Res};
                 true -> 
-                    {__Th, __Res} = bcktrack(List, N, K, Len + 1, _Th, Ch, Res ++ [Ch]),
-                    {__Th, case length(__Res) of
-                        0 -> _Res;
-                        _ -> __Res
-                    end}
+                    % {__Th, __Res} = bcktrack(List, N, K, Len + 1, _Th, Ch, Res ++ [Ch]),
+                    % {__Th, case __Res of
+                    %     [] -> _Res;
+                    %     _ -> __Res
+                    % end}
+                    bcktrack(List, N, K, Len + 1, _Th, Ch, Res ++ [Ch])
             end
         end, {Th, []}, List
     ).

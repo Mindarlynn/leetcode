@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mindarlynn/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mindarlynn/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mindarlynn/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Mindarlynn/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Mindarlynn/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mindarlynn/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Mindarlynn/leetcode/tree/master/0367-valid-perfect-square) |
@@ -928,4 +929,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mindarlynn/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mindarlynn/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

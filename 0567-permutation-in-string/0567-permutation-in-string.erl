@@ -1,38 +1,26 @@
-make_sublist_sets(List, TargetLen, [H | T], TargetLen, TmpMap, Result) -> 
-    NewMap = case maps:get(H, TmpMap) of
-        1 -> maps:remove(H, TmpMap);
-        Value -> maps:update(H, Value - 1, TmpMap);
-        _ -> TmpMap
-    end,
-    make_sublist_sets(List, TargetLen, T, TargetLen - 1, NewMap, Result ++ [maps:to_list(TmpMap)]);
-make_sublist_sets([], _, _, _, _, Result) -> Result;
-make_sublist_sets([H | T], TargetLen, Tmp, TmpLen, TmpMap, Result) ->
-    NewMap = case maps:find(H, TmpMap) of
-        {ok, Value} -> maps:update(H, Value + 1, TmpMap);
-        _ -> maps:put(H, 1, TmpMap)
-    end,
-    make_sublist_sets(T, TargetLen, Tmp ++ [H], TmpLen + 1, NewMap, Result).
-
-check([], _) -> false;
-check([H | T], Set) ->
-    case H =:= Set of
-        true -> true;
-        _ -> check(T, Set)
+map_inc(Key, Map) -> maps:update_with(Key, fun(X) -> X + 1 end, 1, Map).
+map_dec(Key, Map) -> 
+    case maps:get(Key, Map) of
+        1 -> maps:remove(Key, Map);
+        Val -> maps:update(Key, Val - 1, Map)
     end.
 
+freq([]) -> maps:new();
+freq([H | T]) -> map_inc(H, freq(T)).
+
 -spec check_inclusion(S1 :: unicode:unicode_binary(), S2 :: unicode:unicode_binary()) -> boolean().
+check_inclusion(<<S1/binary>>, <<S2/binary>>) ->
+    check_inclusion(binary_to_list(S1), binary_to_list(S2));
 check_inclusion(S1, S1) -> true;
 check_inclusion(S1, S2) ->
-    {SS1, SS2} = {binary_to_list(S1), binary_to_list(S2)},
-    check(
-        make_sublist_sets(SS2, length(SS1), [], 0, maps:new(), []), 
-        maps:to_list(lists:foldl(
-            fun(X, Map) ->
-                case maps:find(X, Map) of
-                    {ok, Value} -> maps:update(X, Value + 1, Map);
-                    _ -> maps:put(X, 1, Map)
-                end
-            end, maps:new(), SS1
-        )
-    )).
-    
+    Len = length(S1),
+    Map = freq(S1),
+    helper(Map, Len, S2, maps:new(), 0, []).
+
+helper(Map1, S1Len, [], Map2, S2Len, ToDel) when S1Len > S2Len -> false;
+helper(Map1, S1Len, [H | T], Map2, S2Len, ToDel) when S1Len > S2Len -> 
+    helper(Map1, S1Len, T, map_inc(H, Map2), S2Len + 1, ToDel ++ [H]);
+helper(Map1, Len, [], Map2, Len, _) -> Map1 == Map2;
+helper(Map, Len, _, Map, Len, _) -> true;
+helper(Map1, Len, [H1 | T1], Map2, Len, [H2 | T2]) ->
+    helper(Map1, Len, T1, map_inc(H1, map_dec(H2, Map2)), Len, T2 ++ [H1]).

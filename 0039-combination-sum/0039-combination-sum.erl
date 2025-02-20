@@ -1,11 +1,12 @@
 -spec combination_sum(Candidates :: [integer()], Target :: integer()) -> [[integer()]].
-
-sum(List, Target) -> sum(List, Target, [], []).
-sum(_, Target, _, Acc) when Target < 0 -> Acc;
-sum(_, Target, Cur, Acc) when Target == 0 -> [Cur | Acc];
-sum([], Target, Cur, Acc) when Target > 0 -> Acc;
-sum([H|T], Target, Cur, Acc) when Target > 0 ->
-    sum(T, Target, Cur, sum([H|T], Target-H, [H|Cur], Acc)).
-
 combination_sum(Candidates, Target) ->
-    sum(Candidates, Target).
+    bcktrk(Candidates, Target, 0, 0, []).
+
+bcktrk(_, Target, _, Sum, _) when Target < Sum -> [];
+bcktrk(_, Target, _, Target, Tmp) -> [Tmp];
+bcktrk(Candidates, Target, S, Sum, Tmp) ->
+    element(2, lists:foldl(
+        fun(X, {_S, Res}) ->
+            {_S + 1, Res ++ bcktrk(Candidates, Target, _S, Sum + X, Tmp ++ [X])}
+        end, {S, []}, element(2, lists:split(S, Candidates))
+    )).

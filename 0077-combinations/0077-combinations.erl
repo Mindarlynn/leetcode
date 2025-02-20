@@ -2,6 +2,7 @@
 combine(N, K) ->
     bcktrk(N, K, 1, 0, []).
 
+bcktrk(_, K, _, Len, _) when K < Len -> [];
 bcktrk(_, K, _, K, Tmp) -> [Tmp];
 bcktrk(N, K, S, Len, Tmp) ->
     lists:foldl(

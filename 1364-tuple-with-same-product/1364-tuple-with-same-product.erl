@@ -1,9 +1,6 @@
 -spec freq(List :: [integer()]) -> map().
-freq(List)          -> freq(List, maps:new()).
-
--spec freq(List :: [integer()], Map :: map()) -> map().
-freq([], Map)       -> Map;
-freq([H|T], Map)    -> freq(T, maps:update_with(H, fun(X) -> X + 1 end, 1, Map)).
+freq([])       -> maps:new();
+freq([H|T])    -> maps:update_with(H, fun(X) -> X + 1 end, 1, freq(T)).
 
 -spec tuple_same_product(Nums :: [integer()]) -> integer().
 tuple_same_product(Nums) ->

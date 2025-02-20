@@ -12,10 +12,9 @@ bcktrk(_, N, Set, N, Tmp) ->
 bcktrk(List, N, Set, Len, Tmp) ->
     lists:foldl(
         fun(X, Res) ->
-            _Res = bcktrk(N, Set, Len + 1, Tmp ++ [X]),
-            case _Res of
-                [] -> Res;
-                _ -> _Res
+            case Res of
+                [] -> bcktrk(List, N, Set, Len + 1, Tmp ++ [X]);
+                _ -> Res
             end
         end, [], List
     ).

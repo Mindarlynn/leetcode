@@ -1,12 +1,11 @@
 class Solution {
 public:
     void bcktrk(const int n, unordered_set<string>& s, string& tmp, string* res){
-        if(tmp.length() > n) return;
         if(tmp.length() == n){
             if(!s.contains(tmp)){
                 (*res) = tmp;
-                return;
             }
+            return;
         }
 
         for(char c = '0'; c <= '1'; ++c){

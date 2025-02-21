@@ -12,9 +12,11 @@
 class FindElements {
 public:
     TreeNode* head = nullptr;
+    unordered_set<int> memo{};
 
     void build(TreeNode* node) {
         if(!node) return;
+        memo.insert(node->val);
 
         if(node->left){
             node->left->val = 2 * node->val + 1;
@@ -35,14 +37,7 @@ public:
     }
 
     bool find(int target){
-        return find(target, head);
-    }
-
-    bool find(int target, TreeNode* node){
-        if(!node) return false;
-        if(node->val == target) return true;
-
-        return find(target, node->left) || find(target, node->right);
+        return memo.contains(target);
     }
 };
 

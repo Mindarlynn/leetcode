@@ -10,16 +10,16 @@ construct_from_pre_post(PreOrder, PostOrder) ->
 
 construct(_, []) -> {[], [], null};
 construct([], _) -> {[], [], null};
-construct([H1 | T1], [H2 | T2]) ->
+construct(PreOrder, PostOrder) ->
     %io:format("~w~n~w~n", [[H1 | T1], [H2 | T2]]),
     {LResPre, LResPos, Left} = if
-        H1 =/= H2 -> construct(T1, [H2 | T2]);
-        true -> {T1, [H2 | T2], null}
+        hd(PreOrder) =/= hd(PostOrder) -> construct(tl(PreOrder), PostOrder);
+        true -> {tl(PreOrder), PostOrder, null}
     end,
     {RResPre, RResPos, Right} = if
-        H1 =/= hd(LResPos) -> construct(LResPre, LResPos);
+        hd(PreOrder) =/= hd(LResPos) -> construct(LResPre, LResPos);
         true -> {LResPre, LResPos, null}
     end,
-    {RResPre, case RResPos of [] -> []; _ -> tl(RResPos) end , #tree_node{val = H1, left = Left, right = Right}}.
+    {RResPre, case RResPos of [] -> []; _ -> tl(RResPos) end , #tree_node{val = hd(PreOrder), left = Left, right = Right}}.
         
     

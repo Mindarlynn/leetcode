@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Mindarlynn/leetcode/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Mindarlynn/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mindarlynn/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mindarlynn/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mindarlynn/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Mindarlynn/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2714-left-and-right-sum-differences](https://github.com/Mindarlynn/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Mindarlynn/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mindarlynn/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mindarlynn/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mindarlynn/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Mindarlynn/leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mindarlynn/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mindarlynn/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mindarlynn/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mindarlynn/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Mindarlynn/leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/Mindarlynn/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mindarlynn/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mindarlynn/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3189-find-champion-ii](https://github.com/Mindarlynn/leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mindarlynn/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
@@ -820,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mindarlynn/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mindarlynn/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mindarlynn/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |

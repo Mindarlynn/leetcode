@@ -19,20 +19,10 @@ public:
 
     void gogoalice(vector<vector<int>>& g, vector<int>& amount, vector<bool>& vis, int alice_cur, int alice_net, vector<int>& bob_path, int bob_cur, int* res){
         bool is_leaf = true;
-        for(int i = 0; i < g[alice_cur].size(); ++i){
-            if(!vis[g[alice_cur][i]]){
-                is_leaf = false;
-                break;
-            }
-        }
-
-        if(is_leaf){
-            (*res) = max(*res, alice_net);
-            return;
-        }
 
         for(int i = 0; i < g[alice_cur].size(); ++i){
             if(vis[g[alice_cur][i]]) continue;
+            is_leaf = false;
             vis[g[alice_cur][i]] = true;
 
             if(bob_cur < bob_path.size()){
@@ -57,6 +47,10 @@ public:
             }
 
             vis[g[alice_cur][i]] = false;
+        }
+
+        if(is_leaf){
+            (*res) = max(*res, alice_net);
         }
     }
 

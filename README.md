@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mindarlynn/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Mindarlynn/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mindarlynn/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mindarlynn/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/Mindarlynn/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Mindarlynn/leetcode/tree/master/1651-shuffle-string) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Mindarlynn/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/Mindarlynn/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Mindarlynn/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mindarlynn/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Mindarlynn/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Mindarlynn/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mindarlynn/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Mindarlynn/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mindarlynn/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Mindarlynn/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mindarlynn/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Mindarlynn/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1503-reducing-dishes](https://github.com/Mindarlynn/leetcode/tree/master/1503-reducing-dishes) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mindarlynn/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mindarlynn/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1764-maximum-repeating-substring](https://github.com/Mindarlynn/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Number Theory

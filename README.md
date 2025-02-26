@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Mindarlynn/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Mindarlynn/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/Mindarlynn/leetcode/tree/master/1839-decode-xored-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mindarlynn/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mindarlynn/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mindarlynn/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Mindarlynn/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mindarlynn/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mindarlynn/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1764-maximum-repeating-substring](https://github.com/Mindarlynn/leetcode/tree/master/1764-maximum-repeating-substring) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mindarlynn/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Number Theory
 |  |
 | ------- |

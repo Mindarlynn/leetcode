@@ -4,6 +4,6 @@ max_absolute_sum(Nums) ->
         fun(X, {Max, Min, Res}) ->
             NewMax = max(0, X + Max),
             NewMin = min(0, X + Min),
-            {NewMax, NewMin, lists:max([NewMax, -NewMin, Res])}
+            {NewMax, NewMin, max(Res, max(NewMax, -NewMin))}
         end, {0, 0, 0}, Nums
     )).

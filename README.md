@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Mindarlynn/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mindarlynn/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Mindarlynn/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Mindarlynn/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mindarlynn/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mindarlynn/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mindarlynn/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mindarlynn/leetcode/tree/master/1086-divisor-game) |
+| [1170-shortest-common-supersequence](https://github.com/Mindarlynn/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Mindarlynn/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Mindarlynn/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1503-reducing-dishes](https://github.com/Mindarlynn/leetcode/tree/master/1503-reducing-dishes) |

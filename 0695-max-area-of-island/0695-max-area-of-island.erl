@@ -3,14 +3,14 @@ max_area_of_island(Grid) ->
     N = length(Grid),
     M = length(hd(Grid)),
     element(2, lists:foldl(
-        fun({X, Y}, {Vis, Res}) ->
-            case {sets:is_element({X, Y}, Vis), lists:nth(X, lists:nth(Y, Grid))} of
+        fun({X, Y, W}, {Vis, Res}) ->
+            case {sets:is_element({X, Y}, Vis), W} of
                 {false, 1} -> 
                     {NewVis, Area} = dfs(Grid, sets:add_element({X, Y}, Vis), N, M, X, Y),
                     {NewVis, max(Res, Area)};
                 _ -> {Vis, Res}
             end        
-        end, {sets:new(), 0}, [{X, Y} || Y <- lists:seq(1, N), X <- lists:seq(1, M)]
+        end, {sets:new(), 0}, [{X, Y, lists:nth(X, lists:nth(Y, Grid))} || Y <- lists:seq(1, N), X <- lists:seq(1, M)]
     )).
 
 dfs(G, Vis, N, M, X, Y) ->

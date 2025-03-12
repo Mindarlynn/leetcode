@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Mindarlynn/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Mindarlynn/leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Mindarlynn/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0854-making-a-large-island](https://github.com/Mindarlynn/leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Mindarlynn/leetcode/tree/master/0859-design-circular-deque) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mindarlynn/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Mindarlynn/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Mindarlynn/leetcode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mindarlynn/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0854-making-a-large-island](https://github.com/Mindarlynn/leetcode/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/Mindarlynn/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mindarlynn/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mindarlynn/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Mindarlynn/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Mindarlynn/leetcode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mindarlynn/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0854-making-a-large-island](https://github.com/Mindarlynn/leetcode/tree/master/0854-making-a-large-island) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mindarlynn/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Mindarlynn/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mindarlynn/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mindarlynn/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Mindarlynn/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Mindarlynn/leetcode/tree/master/0695-max-area-of-island) |
+| [0854-making-a-large-island](https://github.com/Mindarlynn/leetcode/tree/master/0854-making-a-large-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mindarlynn/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mindarlynn/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mindarlynn/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Mindarlynn/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Mindarlynn/leetcode/tree/master/0695-max-area-of-island) |
+| [0854-making-a-large-island](https://github.com/Mindarlynn/leetcode/tree/master/0854-making-a-large-island) |
 | [1022-unique-paths-iii](https://github.com/Mindarlynn/leetcode/tree/master/1022-unique-paths-iii) |
 | [1791-richest-customer-wealth](https://github.com/Mindarlynn/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mindarlynn/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |

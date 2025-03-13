@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mindarlynn/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Mindarlynn/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mindarlynn/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/Mindarlynn/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3721-count-mentions-per-user](https://github.com/Mindarlynn/leetcode/tree/master/3721-count-mentions-per-user) |
 ## Hash Table
 |  |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mindarlynn/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2571-find-the-pivot-integer](https://github.com/Mindarlynn/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Mindarlynn/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3643-zero-array-transformation-ii](https://github.com/Mindarlynn/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mindarlynn/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mindarlynn/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mindarlynn/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Mindarlynn/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

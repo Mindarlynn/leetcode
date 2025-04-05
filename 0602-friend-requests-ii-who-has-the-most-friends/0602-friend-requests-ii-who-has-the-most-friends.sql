@@ -5,4 +5,8 @@ with base as (
     union all
     select accepter_id as id from requestaccepted
 )
-select id, count(*) as num from base group by id order by num desc limit 1
+select id, count(*) as num 
+from base 
+group by id 
+order by num desc 
+limit 1

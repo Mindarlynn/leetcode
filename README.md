@@ -1063,4 +1063,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Mindarlynn/leetcode/tree/master/0610-triangle-judgement) |
 | [1161-project-employees-i](https://github.com/Mindarlynn/leetcode/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Mindarlynn/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1258-article-views-i](https://github.com/Mindarlynn/leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->

@@ -9,7 +9,7 @@ with
     ),
     # immediate orders
     cte2 as (
-        select distinct(customer_id), order_date, 1 as immediate
+        select customer_id, order_date, 1 as immediate
         from delivery
         where order_date = customer_pref_delivery_date
     )

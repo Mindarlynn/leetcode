@@ -1092,4 +1092,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mindarlynn/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3782-find-valid-emails](https://github.com/Mindarlynn/leetcode/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/Mindarlynn/leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
+| [3816-dna-pattern-recognition](https://github.com/Mindarlynn/leetcode/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->

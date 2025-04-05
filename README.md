@@ -1048,4 +1048,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mindarlynn/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Mindarlynn/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
